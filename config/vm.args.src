@@ -1,0 +1,6 @@
+-sname 'prometheus_nova'
+
+-setcookie 'prometheus_nova_cookie'
+
++K true
++A30
